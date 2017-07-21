@@ -24,5 +24,4 @@ public class Spawner : MonoBehaviour {
             yield return new WaitForSeconds(spawnTime);
         }
     }
-
 }

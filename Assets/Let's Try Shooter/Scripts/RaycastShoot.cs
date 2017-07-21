@@ -68,7 +68,6 @@ public class RaycastShoot : MonoBehaviour
 
     private IEnumerator ShotEffect()
     {
-
         gunAudio.Play();
 
         laserLine.enabled = true;
